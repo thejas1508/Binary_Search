@@ -1,0 +1,4 @@
+OUTPUT:
+53
+Enter the Mail_of_Student:thejaskumar.b2020@gmail.com
+The Student Mail is in the List
